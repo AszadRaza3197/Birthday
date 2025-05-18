@@ -18,7 +18,7 @@ To celebrate and cherish the birthday of a dear friend with a creative, web-base
 
 ## 📁 Project Structure
 
-```bash
+
 birthday-greeting/
 ├── index.html           # Main HTML file
 ├── stylesheet.css       # Main styling
@@ -34,9 +34,6 @@ birthday-greeting/
 ▶️ How to Run
 Clone or download the repository.
 
-bash
-Copy
-Edit
 git clone https://github.com/your-username/birthday-greeting.git
 cd birthday-greeting
 Make sure all files (HTML, CSS, JS, images, and audio) are in the same directory.
